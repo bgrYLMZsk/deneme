@@ -21,3 +21,5 @@ consol.log("hello world")
 '''
 deneme
 
+yeni değişiklik
+
